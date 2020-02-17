@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Batting Percentages\Batting Percentages\bin\Debug\Batting Percentages.exe.config
+C:\Users\Owner\source\repos\Batting Percentages\Batting Percentages\bin\Debug\Batting Percentages.exe
+C:\Users\Owner\source\repos\Batting Percentages\Batting Percentages\bin\Debug\Batting Percentages.pdb
+C:\Users\Owner\source\repos\Batting Percentages\Batting Percentages\obj\Debug\Batting Percentages.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Batting Percentages\Batting Percentages\obj\Debug\Batting_Percentages.Form1.resources
+C:\Users\Owner\source\repos\Batting Percentages\Batting Percentages\obj\Debug\Batting_Percentages.Properties.Resources.resources
+C:\Users\Owner\source\repos\Batting Percentages\Batting Percentages\obj\Debug\Batting Percentages.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\Batting Percentages\Batting Percentages\obj\Debug\Batting Percentages.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Batting Percentages\Batting Percentages\obj\Debug\Batting Percentages.exe
+C:\Users\Owner\source\repos\Batting Percentages\Batting Percentages\obj\Debug\Batting Percentages.pdb

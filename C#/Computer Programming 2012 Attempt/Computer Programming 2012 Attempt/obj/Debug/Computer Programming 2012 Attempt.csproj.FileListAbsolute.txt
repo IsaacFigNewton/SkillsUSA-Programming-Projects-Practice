@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Computer Programming 2012 Attempt\Computer Programming 2012 Attempt\bin\Debug\Computer Programming 2012 Attempt.exe.config
+C:\Users\Owner\source\repos\Computer Programming 2012 Attempt\Computer Programming 2012 Attempt\bin\Debug\Computer Programming 2012 Attempt.exe
+C:\Users\Owner\source\repos\Computer Programming 2012 Attempt\Computer Programming 2012 Attempt\bin\Debug\Computer Programming 2012 Attempt.pdb
+C:\Users\Owner\source\repos\Computer Programming 2012 Attempt\Computer Programming 2012 Attempt\obj\Debug\Computer Programming 2012 Attempt.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Computer Programming 2012 Attempt\Computer Programming 2012 Attempt\obj\Debug\Computer_Programming_2012_Attempt.Form1.resources
+C:\Users\Owner\source\repos\Computer Programming 2012 Attempt\Computer Programming 2012 Attempt\obj\Debug\Computer_Programming_2012_Attempt.Properties.Resources.resources
+C:\Users\Owner\source\repos\Computer Programming 2012 Attempt\Computer Programming 2012 Attempt\obj\Debug\Computer Programming 2012 Attempt.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\Computer Programming 2012 Attempt\Computer Programming 2012 Attempt\obj\Debug\Computer Programming 2012 Attempt.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Computer Programming 2012 Attempt\Computer Programming 2012 Attempt\obj\Debug\Computer Programming 2012 Attempt.exe
+C:\Users\Owner\source\repos\Computer Programming 2012 Attempt\Computer Programming 2012 Attempt\obj\Debug\Computer Programming 2012 Attempt.pdb

@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Grade Report\Grade Report\bin\Debug\Grade Report.exe.config
+C:\Users\Owner\source\repos\Grade Report\Grade Report\bin\Debug\Grade Report.exe
+C:\Users\Owner\source\repos\Grade Report\Grade Report\bin\Debug\Grade Report.pdb
+C:\Users\Owner\source\repos\Grade Report\Grade Report\obj\Debug\Grade Report.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Grade Report\Grade Report\obj\Debug\Grade_Report.Form1.resources
+C:\Users\Owner\source\repos\Grade Report\Grade Report\obj\Debug\Grade_Report.Properties.Resources.resources
+C:\Users\Owner\source\repos\Grade Report\Grade Report\obj\Debug\Grade Report.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\Grade Report\Grade Report\obj\Debug\Grade Report.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Grade Report\Grade Report\obj\Debug\Grade Report.exe
+C:\Users\Owner\source\repos\Grade Report\Grade Report\obj\Debug\Grade Report.pdb

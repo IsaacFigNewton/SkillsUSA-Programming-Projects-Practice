@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Planet Packing\Planet Packing\bin\Debug\Planet Packing.exe.config
+C:\Users\Owner\source\repos\Planet Packing\Planet Packing\bin\Debug\Planet Packing.exe
+C:\Users\Owner\source\repos\Planet Packing\Planet Packing\bin\Debug\Planet Packing.pdb
+C:\Users\Owner\source\repos\Planet Packing\Planet Packing\obj\Debug\Planet Packing.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Planet Packing\Planet Packing\obj\Debug\Planet_Packing.Form1.resources
+C:\Users\Owner\source\repos\Planet Packing\Planet Packing\obj\Debug\Planet_Packing.Properties.Resources.resources
+C:\Users\Owner\source\repos\Planet Packing\Planet Packing\obj\Debug\Planet Packing.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\Planet Packing\Planet Packing\obj\Debug\Planet Packing.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Planet Packing\Planet Packing\obj\Debug\Planet Packing.exe
+C:\Users\Owner\source\repos\Planet Packing\Planet Packing\obj\Debug\Planet Packing.pdb

@@ -17,7 +17,6 @@ public class ScratchPad {
     public static void main(String[] args) {
         Test FirstTest;
         FirstTest.Test1(1);
-        //Test2(2);
     }
     
 }
