@@ -1,0 +1,11 @@
+//Initialization and subscription code
+public Form1()
+        {
+            InitializeComponent();
+            button1.Click += button1_Click;
+        }
+//Code for button click event:
+private void button1_Click (object sender, EventArgs e)
+        {
+            tabControl1.SelectedTab = tab1;
+        }
