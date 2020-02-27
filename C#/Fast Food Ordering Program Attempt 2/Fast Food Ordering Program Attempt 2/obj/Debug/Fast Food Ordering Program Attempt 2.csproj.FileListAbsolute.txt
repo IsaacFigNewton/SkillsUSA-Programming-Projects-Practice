@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Fast Food Ordering Program Attempt 2\Fast Food Ordering Program Attempt 2\bin\Debug\Fast Food Ordering Program Attempt 2.exe.config
+C:\Users\Owner\source\repos\Fast Food Ordering Program Attempt 2\Fast Food Ordering Program Attempt 2\bin\Debug\Fast Food Ordering Program Attempt 2.exe
+C:\Users\Owner\source\repos\Fast Food Ordering Program Attempt 2\Fast Food Ordering Program Attempt 2\bin\Debug\Fast Food Ordering Program Attempt 2.pdb
+C:\Users\Owner\source\repos\Fast Food Ordering Program Attempt 2\Fast Food Ordering Program Attempt 2\obj\Debug\Fast Food Ordering Program Attempt 2.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Fast Food Ordering Program Attempt 2\Fast Food Ordering Program Attempt 2\obj\Debug\Fast_Food_Ordering_Program_Attempt_2.Form1.resources
+C:\Users\Owner\source\repos\Fast Food Ordering Program Attempt 2\Fast Food Ordering Program Attempt 2\obj\Debug\Fast_Food_Ordering_Program_Attempt_2.Properties.Resources.resources
+C:\Users\Owner\source\repos\Fast Food Ordering Program Attempt 2\Fast Food Ordering Program Attempt 2\obj\Debug\Fast Food Ordering Program Attempt 2.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\Fast Food Ordering Program Attempt 2\Fast Food Ordering Program Attempt 2\obj\Debug\Fast Food Ordering Program Attempt 2.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Fast Food Ordering Program Attempt 2\Fast Food Ordering Program Attempt 2\obj\Debug\Fast Food Ordering Program Attempt 2.exe
+C:\Users\Owner\source\repos\Fast Food Ordering Program Attempt 2\Fast Food Ordering Program Attempt 2\obj\Debug\Fast Food Ordering Program Attempt 2.pdb

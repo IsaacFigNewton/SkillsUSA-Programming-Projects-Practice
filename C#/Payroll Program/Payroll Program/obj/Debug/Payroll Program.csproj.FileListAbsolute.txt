@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Payroll Program\Payroll Program\bin\Debug\Payroll Program.exe.config
+C:\Users\Owner\source\repos\Payroll Program\Payroll Program\bin\Debug\Payroll Program.exe
+C:\Users\Owner\source\repos\Payroll Program\Payroll Program\bin\Debug\Payroll Program.pdb
+C:\Users\Owner\source\repos\Payroll Program\Payroll Program\obj\Debug\Payroll Program.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Payroll Program\Payroll Program\obj\Debug\Payroll_Program.Form1.resources
+C:\Users\Owner\source\repos\Payroll Program\Payroll Program\obj\Debug\Payroll_Program.Properties.Resources.resources
+C:\Users\Owner\source\repos\Payroll Program\Payroll Program\obj\Debug\Payroll Program.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\Payroll Program\Payroll Program\obj\Debug\Payroll Program.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Payroll Program\Payroll Program\obj\Debug\Payroll Program.exe
+C:\Users\Owner\source\repos\Payroll Program\Payroll Program\obj\Debug\Payroll Program.pdb
